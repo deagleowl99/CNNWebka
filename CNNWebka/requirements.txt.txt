@@ -1,0 +1,7 @@
+pip install numpy
+pip install opencv-python
+pip install Pillow
+pip install sklearn
+pip install pickle
+pip install tensorflow
+pip install tflearn
